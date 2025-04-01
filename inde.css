@@ -1,0 +1,70 @@
+
+*{
+    box-size:border-box;
+}
+.log{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(164, 154, 135);
+    font-weight: bold;
+}
+.flex flex-col items-center space-y-8{
+    background-color: rgb(126, 128, 130);
+
+}
+form{
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    max-width: 450px;
+}
+.forminp{
+    width: 92%;
+    padding: 10px;
+    margin: 12px auto;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    
+}
+.text-blue-600 text-5xl font-bold{
+    display: flex;
+    gap: 2px;
+    width:60%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+.lognbtn{
+    background-color: rgba(4, 100, 159, 0.988);
+    color: white;
+    width: 94%;
+    padding:10px;
+    margin:12px;
+    border: 0px ;
+    border-radius: 1px ;
+}
+.card{
+    padding-top: 1.5cm;
+    background-color: white;
+    box-size:border-box;  
+    text-size-adjust: center;  
+    width: 60%;
+    border-radius: 8px;
+    padding:10px;
+    margin: 12px auto;
+    border: 1px solid  lightgray
+   
+}
+.forgbtn{
+    
+    color: rgb(17, 76, 143);
+
+} 
+.out{
+    background-color: rgb(59, 144, 181);
+    width: 20cm;
+    height: 15cm;
+    margin-left: 17cm;
+    margin-top: 5cm;
+}

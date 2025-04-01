@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+
+}
+.form{
+    background-color: rgb(14, 229, 150);
+    height: 15cm;
+    width:20cm
+    
+}
+.tableRow{
+    background-color:rgb(166, 208, 103)
+}
+.table{
+    
+    height: 15cm;
+    width:20cm;
+    background-color: rgb(16, 214, 171);
+    
+}
+.input:hover{
+    background-color: rgb(194, 208, 208);
+}
+.input{
+    color: rgb(33, 55, 55);
+    background-color: rgb(219, 219, 219);
+    margin-top: 2cm;
+    height: 2cm;
+    width:13cm;
+    border-radius: 15cm;
+}
+.delbtn:hover{
+    background-color: rgb(55, 49, 49);
+
+}
+.delbtn{
+    background-color: rgb(161, 153, 140) ;
+}
+.newfbtn:hover{
+    background-color: rgb(55, 49, 49);
+}
+.newfbtn{
+    background-color: rgb(161, 153, 140);
+    border-radius: 5px;
+    
+}
+.iferro{
+    background-color: rgb(212, 147, 147);
+    color: red;
+    font-weight: bolder;
+    font-size: large;
+}
